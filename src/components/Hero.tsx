@@ -37,7 +37,7 @@ const Hero = () => {
                     {/* Hero Content */}
                     <div className="relative z-20 text-center">
                         <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl animate__animated animate__fadeIn">
-                            Welcome to Our M A-Store
+                            Welcome to Our AW-Store
                         </h1>
                         <p className="mt-4 text-lg sm:text-xl sm:max-w-3xl mx-auto animate__animated animate__fadeIn animate__delay-1s">
                             Discover an exciting range of products and a seamless shopping experience with us. Find what you love today!
